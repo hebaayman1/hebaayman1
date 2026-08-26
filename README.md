@@ -1,8 +1,10 @@
 # Hi, I'm Heba Ayman 👋
 
-### 💻 Software Engineer | Full-Stack Developer
+### 💻 Software Engineer | Full-Stack Developer | Data Science & AI Enthusiast
 
-I'm a Software Engineer passionate about building scalable, high-performance web applications and creating intuitive user experiences. I enjoy turning ideas into real-world products through clean architecture, efficient code, and continuous learning.
+I'm a Software Engineer passionate about building scalable, high-performance web applications and creating intuitive user experiences. I'm also expanding my expertise in **Data Science, Machine Learning, and Artificial Intelligence**, exploring how data and AI can be used to build smarter and more impactful solutions.
+
+I enjoy turning ideas into real-world products through clean architecture, efficient code, continuous learning, and experimentation with new technologies.
 
 🎓 **B.Sc. in Computer Systems Engineering**
 **Al-Azhar University** — Class of **2025**
@@ -12,8 +14,10 @@ I'm a Software Engineer passionate about building scalable, high-performance web
 ## 🚀 About Me
 
 * 💡 Passionate about building modern web applications
+* 🤖 Currently learning **Data Science, Machine Learning, and AI**
+* 📊 Exploring data analysis, visualization, and machine learning techniques
 * 🧩 Strong problem-solving and analytical thinking skills
-* ✨ Clean, maintainable, and scalable code advocate
+* ✨ Advocate for clean, maintainable, and scalable code
 * 📚 Always learning new technologies and software engineering practices
 * 🤝 Love collaborating on impactful projects and open-source contributions
 
@@ -33,6 +37,16 @@ I'm a Software Engineer passionate about building scalable, high-performance web
 <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,flask" />
 </p>
 
+### Data Science & AI
+
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+**Currently exploring:**
+
+`NumPy` • `Pandas` • `Matplotlib` • `Seaborn` • `Scikit-learn` • `Machine Learning` • `Deep Learning` • `AI`
+
 ### Databases
 
 <p>
@@ -47,12 +61,15 @@ I'm a Software Engineer passionate about building scalable, high-performance web
 
 ---
 
-## 🌱 Currently
+## 🌱 Currently Learning
 
-* Building full-stack projects
-* Exploring cloud technologies and software architecture
-* Improving backend performance and system design
-* Contributing to open-source whenever possible
+* 📊 Data Analysis & Data Visualization
+* 🧠 Machine Learning fundamentals
+* 🤖 Artificial Intelligence
+* 🐍 Python for Data Science
+* 📈 Exploring real-world datasets and building ML models
+* 🏗️ Learning how to integrate AI/ML into full-stack applications
+* ☁️ Exploring cloud technologies and software architecture
 
 ---
 
@@ -87,8 +104,9 @@ I'm a Software Engineer passionate about building scalable, high-performance web
 <!-- <a href="YOUR_PORTFOLIO">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a> -->
+
 </p>
 
 ---
 
-> *"Building software that is clean, scalable, and makes a difference."* 🚀
+> *"Building software that is clean, scalable, and makes a difference — while exploring the power of data and AI."* 🚀
